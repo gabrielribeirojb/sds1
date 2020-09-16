@@ -11,6 +11,7 @@ import javax.persistence.Id;
 import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
+
 @Entity
 @Table(name="tb_genre")
 
@@ -51,6 +52,7 @@ public class Genre implements Serializable {
 		this.name = name;
 	}
 
+	
 	public List<Game> getGames() {
 		return games;
 	}
