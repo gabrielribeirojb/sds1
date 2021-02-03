@@ -1,5 +1,5 @@
 # Big Game Survey 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/gabrielribeirojb/sds1-readme/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/gabrielribeirojb/sds1/blob/master/LICENSE) 
 
 # Sobre o projeto
 
